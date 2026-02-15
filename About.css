@@ -18,7 +18,7 @@
 
 .page-main-title {
     font-size: 3.5em;
-    color: whitesmoke;
+    color: #F5F5F5 ;
     text-align: center;
     margin-bottom: 40px;
 }
@@ -59,13 +59,13 @@
     color: #555;
 }
 .section-title.bio-heading {
-    color: whitesmoke;
+    color: #F5F5F5 ;
 }
 
 .bio-text-content {
     font-size: 1.1em;
     line-height: 1.7;
-    color: whitesmoke;
+    color:#F5F5F5;
 }
 
 .justified-text {
